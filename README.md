@@ -9,7 +9,7 @@ a 10 step left turn to the front (From point A to point E)
 a 10 step right turn to the front From point A to point G)
 
 
-Assuming there are obstacles as below
+Assuming there are obstacles as below in document file
 
 
 
